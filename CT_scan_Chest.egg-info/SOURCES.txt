@@ -1,0 +1,5 @@
+setup.py
+CT_scan_Chest.egg-info/PKG-INFO
+CT_scan_Chest.egg-info/SOURCES.txt
+CT_scan_Chest.egg-info/dependency_links.txt
+CT_scan_Chest.egg-info/top_level.txt
